@@ -1,0 +1,1 @@
+This folder contains all week assignment of machine learning course on coursera by Prof. Andrew Ng
